@@ -71,6 +71,8 @@ Design Considerations:
     Adequate spacing between charts for a non-cluttered look
 
  ## Dashboard Snapshot
+ ![Screenshot 2025-06-14 003607](https://github.com/user-attachments/assets/ab0c253c-8427-4f45-8eab-bb365104d0ba)
+
 
 The final dashboard integrates all charts in a cohesive visual space, offering a comprehensive overview of product costs and quantities. It enables quick insights with interactive filtering and responsive design.
 ## Tools Used
